@@ -1,0 +1,16 @@
+C:\Разработка на софтуер-11дМ\Jivotni\bin\Debug\Jivotni.exe.config
+C:\Разработка на софтуер-11дМ\Jivotni\bin\Debug\Jivotni.exe
+C:\Разработка на софтуер-11дМ\Jivotni\bin\Debug\Jivotni.pdb
+C:\Разработка на софтуер-11дМ\Jivotni\bin\Debug\EntityFramework.dll
+C:\Разработка на софтуер-11дМ\Jivotni\bin\Debug\EntityFramework.SqlServer.dll
+C:\Разработка на софтуер-11дМ\Jivotni\bin\Debug\EntityFramework.xml
+C:\Разработка на софтуер-11дМ\Jivotni\bin\Debug\EntityFramework.SqlServer.xml
+C:\Разработка на софтуер-11дМ\Jivotni\obj\Debug\Jivotni.csproj.AssemblyReference.cache
+C:\Разработка на софтуер-11дМ\Jivotni\obj\Debug\Jivotni.csproj.SuggestedBindingRedirects.cache
+C:\Разработка на софтуер-11дМ\Jivotni\obj\Debug\Jivotni.csproj.CoreCompileInputs.cache
+C:\Разработка на софтуер-11дМ\Jivotni\obj\Debug\Jivotni.csproj.CopyComplete
+C:\Разработка на софтуер-11дМ\Jivotni\obj\Debug\Jivotni.exe
+C:\Разработка на софтуер-11дМ\Jivotni\obj\Debug\Jivotni.pdb
+C:\Разработка на софтуер-11дМ\Jivotni\obj\Debug\Jivotni.csproj.GenerateResource.cache
+C:\Разработка на софтуер-11дМ\Jivotni\obj\Debug\Jivotni.Views.Form1.resources
+C:\Разработка на софтуер-11дМ\Jivotni\obj\Debug\Jivotni.Migrations.NewDatabase2.resources
